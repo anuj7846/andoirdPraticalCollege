@@ -1,0 +1,2 @@
+# andoirdPraticalCollege
+college andoird pratical
